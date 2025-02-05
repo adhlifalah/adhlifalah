@@ -1,29 +1,54 @@
-### Hi there 👋
-
-My name is **Putra Adhli Falah**.
-
-I'm a **Front-End Web Developer Intern** at [BPJamsostek](https://www.bpjsketenagakerjaan.go.id/).
-
-If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/putra-adhli-falah/) account.
-
-<p align="left">
-<a href="https://github.com/adhlifalah">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adhlifalah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adhlifalah&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<h1 align="center">Hi there, I'm Putra Adhli Falah! 👋</h1>  
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </p>
 
-<!--
-**adhlifalah/adhlifalah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://linkedin.com/in/putra-adhli-falah">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/adhlifalah">
+    <img src="https://img.shields.io/github/followers/adhlifalah?style=for-the-badge" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me  
+- 🚀 Front-End Enthusiast
+- 🎓 Fresh Graduate | Informatics Engineering, **Brawijaya University**
+- 💡 Passionate about **Web Development, Mobile Development, and Product Management**
+- 📈 Enthusiast in **IT Consultant & Services**
+- 🔥 Love to build **impactful and scalable web applications**
+
+---
+
+### 🚀 Tech Stack  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,nextjs,nodejs,figma" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adhlifalah&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhlifalah&layout=compact&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhlifalah&theme=radical" />
+</p>
+
+---
+
+### 📫 Let's Connect!  
+🌐 **Portfolio**: [adhlifalah.vercel.app](https://adhlifalah.vercel.app/)  
+📧 **Email**: adhli.falah@gmail.com
+📱 **LinkedIn**: [Putra Adhli Falah](https://linkedin.com/in/putra-adhli-falah)  
+
+---
+
+🔥 *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
